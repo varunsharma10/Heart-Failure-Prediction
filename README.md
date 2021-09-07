@@ -39,4 +39,5 @@ Thanks to [Larxel](https://www.kaggle.com/andrewmvd) for posting this dataset on
   Decision tree model Accuracy:  81.33% 
   Random forest classification model Accuracy:  88.00% 
 
-## Random forest classifiction model gave the best Accuracy.
+### The random forest classification model gave the best accuracy among all other models 
+
