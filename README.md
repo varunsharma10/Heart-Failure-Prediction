@@ -15,19 +15,19 @@ Thanks to [Larxel](https://www.kaggle.com/andrewmvd) for posting this dataset on
 
 
 # Model Used  
-  1.Logistic Regression
+  1. Logistic Regression
   
-  2.K_nearest neighbors
+  2. K_nearest neighbors
   
-  3.Support vector machine(Linear kernel)
+  3. Support vector machine(Linear kernel)
   
-  4.Support vector machine(RBF kernel)
+  4. Support vector machine(RBF kernel)
   
-  5.Naive bayes
+  5. Naive bayes
   
-  6.Decision tree classification
+  6. Decision tree classification
   
-  7.Random forest classification
+  7. Random forest classification
   
 # Conclusion
   
