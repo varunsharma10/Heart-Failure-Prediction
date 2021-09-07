@@ -30,4 +30,13 @@ Thanks to [Larxel](https://www.kaggle.com/andrewmvd) for posting this dataset on
   7. Random forest classification
   
 # Conclusion
-  
+
+  Naive Bayes model Accuracy:  66.67% 
+  K Nearest neighbors model Accuracy:  73.33% 
+  Logistic Regression model Accuracy:  77.33% 
+  Support Vector machine model Accuracy:  78.67% 
+  Kernel SVM model Accuracy:  81.33% 
+  Decision tree model Accuracy:  81.33% 
+  Random forest classification model Accuracy:  88.00% 
+
+## Random forest classifiction model gave the best Accuracy.
