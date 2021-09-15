@@ -29,7 +29,7 @@ Thanks to [Larxel](https://www.kaggle.com/andrewmvd) for posting this dataset on
   
   7. Random forest classification
   
-# Conclusion
+# Result
 
   Naive Bayes model Accuracy:  66.67% 
   
